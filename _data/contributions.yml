@@ -1,4 +1,5 @@
 ﻿devs:
+ 
   - github_url: "https://github.com/suryakantpandey"
     name: "Suryakant Pandey"
     avatar: "https://avatars2.githubusercontent.com/u/55542625?s=460&u=dc1183aa8494ff9157a495222d1132c3705f48ac&v=4"
@@ -17,6 +18,9 @@
   - github_url: "https://github.com/hmadhsan"
     name: "Hammad Hassan"
     avatar: "https://avatars3.githubusercontent.com/u/20043390?s=460&v=4"
+   - github_url: "https://github.com/Prernajha2609"
+    name: 'Prerna'
+    avatar: 'https://avatars0.githubusercontent.com/u/44096259?s=400&v'
   - github_url: "https://github.com/Saptarshisamata/"
     name: "Saptarshi Samanta"
     avatar: "https://avatars.githubusercontent.com/u/36296989?v=4"
